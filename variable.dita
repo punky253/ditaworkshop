@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="variable">
+    <title>Variable</title>
+    <shortdesc>Variable  customer definitions that  throughout the documentation.</shortdesc>
+    <refbody>
+        <section id="section_lyq_z4l_v1c">
+            <p>
+                <table frame="all" id="table_fcb_dpl_v1c">
+                    <title>Variable Names</title>
+                    <tgroup cols="2">
+                        <colspec colname="c1" colnum="1"/>
+                        <colspec colname="c2" colnum="2"/>
+                        <thead>
+                            <row>
+                                <entry> Used as </entry>
+                                <entry>Name to use</entry>
+                            </row>
+                        </thead>
+                        <tbody>
+                            <row>
+                                <entry>Company Name</entry>
+                                <entry><ph id="companyname">Radio Shack</ph><draft-comment
+                                        author="akhil">Change this value only when you are working
+                                        on a document for a different
+                                    company.</draft-comment></entry>
+                            </row>
+                            <row>
+                                <entry>Peripheral Name </entry>
+                                <entry><ph id="peripheralname">-80</ph><draft-comment author="akhil"
+                                        >Change this only when the name of the peripheral
+                                        changes.</draft-comment></entry>
+                            </row>
+                            <row>
+                                <entry>Download Link</entry>
+                                <entry>
+                                    <note id="download-link" type="important"> Click <xref
+                                            href="http://www.google.com" format="html"
+                                            scope="external"/> to download the application.</note>
+                                </entry>
+                            </row>
+                        </tbody>
+                    </tgroup>
+                </table>
+            </p>
+            <p>For more information, see <xref
+                    href="dircommand_0.dita#dircommand_0/section_o1t_2gr_s1c"/></p>
+        </section>
+    </refbody>
+    <related-links/>
+</reference>

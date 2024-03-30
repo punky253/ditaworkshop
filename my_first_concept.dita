@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="my_first_concept">
+    <title>My first concept </title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>This is my <b>first</b> paragraph. </p>
+        <p>This is the list of my favouite fruits.<ol id="ol_yv5_bl4_r1c">
+                <li>Avacado <ul id="ul_lsm_fl4_r1c">
+                        <li>Blue Avacado</li>
+                        <li>Red Avacado</li>
+                    </ul></li>
+                <li>Bluberry</li>
+                <li>Cranberry</li>
+            </ol></p>
+        <p>This is my <b>first</b>
+            <u>paragraph</u>. </p>
+    </conbody>
+</concept>

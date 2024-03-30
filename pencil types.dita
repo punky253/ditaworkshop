@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_tsw_qr4_w1c">
+    <title>Pencil Types</title>
+    <refbody>
+        <section id="section_fg3_wr4_w1c">
+            <p>The following is an example of a definition list. </p>
+            <p>The following pencil types are avialbale </p>
+            <dl id="dl_xpc_4s4_w1c">
+                <dlentry>
+                    <dt>Graphite Pencil+</dt>
+                    <dd>Graphite pencils are the most common types of pencil, and is encased in
+                        wood.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Carbon Pencil ¥</dt>
+                    <dd>Carbon pencils are generally made of a mixture of clay and lamp black. </dd>
+                </dlentry>
+                <dlentry>
+                    <dt>Colored Pencilμ</dt>
+                    <dd>Colored pencils have wax -like cores of pigment and other fillers. </dd>
+                </dlentry>
+            </dl>
+        </section>
+    </refbody>
+</reference>

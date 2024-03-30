@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="sample_for_chunking">
+    <title>sample for chunking </title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>ll supported versions of Windows and Windows Server have a set of Win32 console commands
+            built in. This set of documentation describes the Windows Commands you can use to
+            automate tasks by using scripts or scripting tools. Command-line shells Windows has two
+            command-line shells: the Command shell and PowerShell. </p>
+        <p>Each shell is a software program that provides direct communication between you and the
+            operating system or application, providing an environment to automate IT operations. The
+            Command shell was the first shell built into Windows to automate routine tasks, like
+            user account management or nightly backups, with batch (.bat) files. </p>
+        <p>With Windows Script Host, you could run more sophisticated scripts in the Command shell.
+            For more information, see cscript or wscript. You can perform operations more
+            efficiently by using scripts than you can by using the user interface. Scripts accept
+            all commands that are available at the command line. </p>
+        <p>PowerShell was designed to extend the capabilities of the Command shell to run PowerShell
+            commands called cmdlets. Cmdlets are similar to Windows Commands but provide a more
+            extensible scripting language. You can run both Windows Commands and PowerShell cmdlets
+            in PowerShell, but the Command shell can only run Windows Commands and not PowerShell
+            cmdlets. For the most robust, up-to-date Windows automation, we recommend using
+            PowerShell instead of Windows Commands or Windows Script Host for Windows automation. </p>
+        <p>A reference of exit and error codes for Windows Commands can be found in the Debug system
+            error codes articles that may be helpful to understanding errors produced. Windows
+            Commands also include command redirection operators. To learn more of their use, see
+            Using command redirection operators. Note</p>
+    </conbody>
+</concept>

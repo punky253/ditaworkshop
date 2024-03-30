@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="id">
+    <title>Testditadoc</title>
+    <taskbody><context><p outputclass="p1">Heading 1</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p3">Heading 2</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p1">New Heading 1</p><p outputclass="p2">The quick brown fox jumps over the lazy fox. The quick brown fox jumps
+            over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox.</p><p outputclass="p2">The quick brown fox jumps over the lazy fox.</p></context><steps>
+            <step outputclass="p2"><cmd>The quick brown fox jumps over the lazy fox.</cmd></step>
+            <step outputclass="p2"><cmd>The quick brown fox jumps over the lazy fox.</cmd></step>
+        </steps></taskbody>
+</task>

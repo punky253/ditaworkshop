@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>myfirstmap</title>
+    <topichead navtitle="APIs">
+        <topicref href="changeorresetyourpassword.dita"/>
+        <topicref href="dircommand_0.dita"/>
+        <topicref href="Changepassword.dita"/>
+    </topichead>
+    <topicgroup collection-type="sequence">
+        <topicmeta>
+            <navtitle>Test</navtitle>
+        </topicmeta>
+        <topicgroup/>
+    </topicgroup>
+    <topicref href="relatedlinktest.dita"/>
+    <reltable>
+        <title>Operator Manual Relationship table</title>
+        <relheader>
+            <relcolspec type="concept"/>
+            <relcolspec type="task"/>
+            <relcolspec type="reference"/>
+        </relheader>
+        <relrow>
+            <relcell>
+                <topicref href="introduction_0.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="variable.dita"/>
+            </relcell>
+            <relcell>
+                <topicref href="changeorresetyourpassword.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell>
+                <topicref href="dircommand_0.dita"/>
+            </relcell>
+            <relcell/>
+            <relcell>
+                <topicref href="relatedlinktest.dita"/>
+            </relcell>
+        </relrow>
+        <relrow>
+            <relcell/>
+            <relcell/>
+            <relcell/>
+        </relrow>
+    </reltable>
+</map>

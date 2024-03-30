@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_omg_ppk_x1c">
+    <title>Utilities Domain Elements</title>
+    <conbody>
+        <p>[11:09 AM] Amandeep Singh Talwar - I62717 The elements in the utilities domain each have
+            a specific purpose in defining image map properties.</p>
+        <dl id="dl_snb_tpk_x1c">
+            <dlentry>
+                <dt>Image Map</dt>
+                <dd> Client side Image map</dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_xws_5pk_x1c">
+            <dlentry>
+                <dt>Area</dt>
+                <dd>
+                    <p><codeph><sup><sub><u><i>hotspot</i></u></sub></sup></codeph> area within an
+                        image map</p>
+                </dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_ih1_xpk_x1c">
+            <dlentry>
+                <dt>coords</dt>
+                <dd>co-ordinates of a hotspot area within an image map</dd>
+            </dlentry>
+        </dl>
+        <dl id="dl_xwq_zpk_x1c">
+            <dlentry>
+                <dt>shape</dt>
+                <dd>shape of a hotspot area within an image map</dd>
+            </dlentry>
+        </dl>
+        <imagemap id="imagemap_ct2_hrk_x1c">
+            <image href="picture.png" id="image_dt2_hrk_x1c"/>
+            <area>
+                <shape>rect</shape>
+                <coords>168, 80, 481, 265</coords>
+                <xref href="firstassignment.dita" format="dita">click here but thisis a sample
+                </xref>
+            </area>
+            <area>
+                <shape>rect</shape>
+                <coords>515, 72, 833, 267</coords>
+                <xref href="dircommand_0.dita" format="dita">test again</xref>
+            </area>
+            <area>
+                <shape>rect</shape>
+                <coords>173, 303, 481, 485</coords>
+                <xref
+                    href="https://www.oxygenxml.com/dita/1.3/specs/archSpec/base/ditamap-elements.html"
+                    format="html" scope="external">sample3</xref>
+            </area>
+            <area>
+                <shape>rect</shape>
+                <coords>526, 303, 831, 479</coords>
+                <xref/>
+            </area>
+        </imagemap>
+        <dl id="dl_ycw_t5k_x1c">
+            <dlentry>
+                <dt/>
+                <dd/>
+            </dlentry>
+        </dl>
+    </conbody>
+</concept>

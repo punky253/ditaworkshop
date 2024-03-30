@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="electrical_connections">
+    <title>Electrical Connections</title>
+    <taskbody>
+        <context>Perform the following instructions to setup the electrical connections for
+            peripheral devices attaching to the TRS-80 computer<p/></context>
+        <steps>
+            <step>
+                <cmd> Turn the TRS-80so that it faces away from you. Locate the port Door (<ph
+                        conref="parts_list.dita#parts_list/ph_mph_rp4_w1c"/> ); it's at the right
+                    end of the rear pane</cmd>
+            </step>
+            <step>
+                <cmd>To remove the Door, raise it up and slide it to the right—then lift it up and
+                    away from the TRS-80</cmd>
+            </step>
+            <step>
+                <cmd>Place the TRS-80and Expansion Interface Hoods (1400217 and 1400214 ) on the
+                    Ribbon Cable Connectors as shown in Figure 4. The Hoods replace the Door on the
+                    TRS-80and fill the opening on the Expansion Interface. These Hoods are designed
+                    so that it is not possible to insert the connectors upside down. They function
+                    as keyways for the connectors.</cmd>
+            </step>
+            <step>
+                <cmd> Now connect the Ribbon Cable between the left front Expansion Interfaceport
+                    and the TRS-80 port.</cmd>
+            </step>
+            <step>
+                <cmd> Connect the DC Power Cord (DIN connector) to the POWER connector on the right
+                    rear of the TRS-80and connect both AC Power Cords to standard 120 VAC
+                    outlets.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+    Template file for Oxygen Terminology Checker plugin.
+-->
+<incorrect-terms>
+    <incorrect-term ignorecase="true">
+        <match type="whole-word">Customer</match>
+        <suggestion format="text">Patron</suggestion>
+        <message>present as tooltip message</message>
+        <link>https://www.example.com</link>
+    </incorrect-term>
+</incorrect-terms>

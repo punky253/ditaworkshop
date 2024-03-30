@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic
+  PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="id">
+    <title>Testditadoc</title>
+    <body>
+        <p outputclass="p2">
+            <ph id="Toc59981432">Introduction</ph>
+        </p>
+        <p outputclass="p3">This document servers as a quick and concise reference to the events
+            related APIs used in AD Locker.</p>
+        <p outputclass="p3">This is a REST (Representational State Transfer) API document which
+            describes the various endpoints, the methods, parameters and more and also provides
+            sample requests and responses from the endpoints.</p>
+        <p outputclass="p2">
+            <ph id="Toc59981433">Audience</ph>
+        </p>
+        <p outputclass="p3">The document is intended for people who need to directly integrate and
+            work with your API, as well as the people who want to evaluate and see if this API will
+            fit into their development and business strategy.</p>
+        <p outputclass="p3">The document is for the developers who want to integrate with your
+            services and are looking to resolve a specific issue using the API.</p>
+        <p outputclass="p2">
+            <ph id="Toc59981434">Appointments</ph>
+        </p>
+        <p outputclass="p4">
+            <ph id="Toc59981435">Appointments Upsert</ph>
+        </p>
+        <p outputclass="p5">
+            <ph id="Toc59981436">Endpoint</ph>
+        </p>
+        <p outputclass="p3">Stage: <xref href="https://stage-sgs.api.abudhabi.ae/gateway/TammJourneyAdl-events/1.0/appointments/upsert" format="html" scope="external">https://stage-sgs.api.abudhabi.ae/gateway/TammJourneyAdl-events/1.0/appointments/upsert</xref></p>
+        <p outputclass="p6">Prod: <xref href="https://sgs.api.abudhabi.ae/gateway/TammJourneyAdl-events/1.0/appointments/upsert" format="html" scope="external">https://sgs.api.abudhabi.ae/gateway/TammJourneyAdl-events/1.0/appointments/upsert</xref></p>
+        <p outputclass="p5">
+            <ph id="Toc59981437">Description</ph>
+        </p>
+        <p outputclass="p1">This end point is used to add or create an appointment.</p>
+        <p outputclass="p5">
+            <ph id="Toc59981438">Headers</ph>
+        </p>
+        <table outputclass="t1" frame="all" rowsep="1" colsep="1">
+            <tgroup cols="2">
+                <colspec colnum="1" colwidth="1*" colname="col1"/>
+                <colspec colnum="2" colwidth="1*" colname="col2"/>
+                <tbody>
+                    <row outputclass="r1">
+                        <entry outputclass="p7">Field Name</entry>
+                        <entry outputclass="p8">Mandatory</entry>
+                    </row>
+                    <row outputclass="r1">
+                        <entry outputclass="p8">Content-Type</entry>
+                        <entry outputclass="p8">application/json</entry>
+                    </row>
+                    <row outputclass="r2">
+                        <entry outputclass="p8">x-Gateway API Key</entry>
+                        <entry outputclass="p8">From AD Connect</entry>
+                    </row>
+                    <row outputclass="r1">
+                        <entry outputclass="p8">API Key</entry>
+                        <entry outputclass="p8">From AD Connect</entry>
+                    </row>
+                </tbody>
+            </tgroup>
+        </table>
+        <p outputclass="p5">
+            <ph id="Toc59981439">Request</ph>
+        </p>
+    </body>
+</topic>

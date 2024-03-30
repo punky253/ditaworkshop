@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>xyz user guide</title>
+    <topichead navtitle="Introduction">
+        <topichead navtitle="System Requirements"/>
+    </topichead>
+    <topichead navtitle="Getting Started with XYZ"/>
+    <topichead navtitle="Working with XYZ"/>
+</map>

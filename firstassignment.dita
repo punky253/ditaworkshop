@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_svr_vkq_r1c">
+    <title>My Locker</title>
+    <shortdesc>You can use the <b>My Locker</b> to manage your personalised data in  single place.  </shortdesc>
+    <conbody>
+        <p>You can view the <b>My Locker</b> by logging into TAMM using your <b><i>SmartPass</i></b>
+            or <b><i>UAEPass</i></b>. </p>
+        <p>The following services can be accessed using My Locker:<ol id="ol_usk_2lq_r1c">
+                <li>Payments<ul id="ul_ex4_rlq_r1c">
+                        <li>Fines</li>
+                        <li>Bills</li>
+                        <li>Fees</li>
+                    </ul>
+                </li>
+                <li>Subscriptions<ul id="ul_kjp_tlq_r1c">
+                        <li>Etisalat</li>
+                        <li>Du</li>
+                    </ul></li>
+                <li>Documents<ul id="ul_s5l_vlq_r1c">
+                        <li>Medical Insurance</li>
+                        <li>Vehicle Registration</li>
+                        <li>Land Documents</li>
+                        <li>Driving Licence</li>
+                    </ul></li>
+            </ol></p>
+    </conbody>
+</concept>
